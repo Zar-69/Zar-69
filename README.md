@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zar-69
-- 👀 I’m interested in learning for about coding programs and languages
+- 👋 Hi, I’m Melanie
+- 👀 I’m interested in learning more about coding programs and languages
 - 🌱 I’m currently learning HTML and JavaScript 
 - 💞️ I’m looking to collaborate on anyone 
-- 📫 How to reach me 4074630797
+- 📫 How to reach me 4074-463-0797
 
 <!---
 Zar-69/Zar-69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
